@@ -1,0 +1,111 @@
+.theree_box {
+
+    .hero_text_3 {
+        margin-left: 50px;
+        color: #83888F;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 32px;
+        margin-bottom: 80px;
+    }
+
+    .position_2 {
+        position: relative;
+    }
+
+    .position_3 {
+        width: 760px;
+        height: 2px;
+        background-color: #FDD6BA;
+        margin-bottom: 80px;
+        margin-left: 50px;
+    }
+
+    .position_4 {
+        position: absolute;
+        top: -15px;
+        left: 50px;
+        width: 31px;
+        height: 31px;
+        border-radius: 50px;
+        border: solid 1px #0E8784;
+        background-color: white;
+    }
+
+    .position_5 {
+        position: absolute;
+        top: -15px;
+        left: 435px;
+        width: 31px;
+        height: 31px;
+        border-radius: 50px;
+        border: solid 1px #0E8784;
+        background-color: white;
+    }
+
+    .position_6 {
+        position: absolute;
+        top: -15px;
+        right: 400px;
+        width: 31px;
+        height: 31px;
+        border-radius: 50px;
+        border: solid 1px #0E8784;
+        background-color: white;
+    }
+
+    .nomer_bir {
+        color: #FDD6BA;
+        font-family: Fraunces 9pt;
+        font-size: 72px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 72px;
+        margin-bottom: 38px;
+    }
+
+    .pick_ {
+        color: #333D4B;
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 36px;
+        margin-bottom: 42px;
+    }
+
+    .selic {
+        width: 285px;
+        color: #333D4B;
+        font-family: Barlow;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+    }
+
+    .catd_nomer_odin {
+        margin-left: 50px;
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 0 95px;
+        margin-bottom: 64px;
+    }
+
+    .btn_2 {
+        margin-left: 50px;
+        width: 217px;
+        height: 56px;
+        border-radius: 6px;
+        background: #0E8784;
+        color: #FEFCF7;
+        text-align: center;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 25px;
+        margin-bottom: 200px;
+    }
+
+}

@@ -1,0 +1,89 @@
+.footer {
+    padding: 48px 85px;
+    background-color: #2C343E;
+    margin-bottom: 100px;
+
+    .img_5 {
+        margin-left: 50px;
+    }
+
+    .text_5 {
+        margin-left: 100px;
+        color: #83888F;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 15px;
+        letter-spacing: 0.923px;
+        text-transform: uppercase;
+    }
+
+    .footer_box_list {
+        display: flex;
+        align-items: center;
+    }
+
+    .img_6 {
+        margin-left: 33px;
+        color: #83888F;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 15px;
+        letter-spacing: 0.923px;
+        text-transform: uppercase;
+    }
+
+    .text_6 {
+        margin-left: 33px;
+        color: #83888F;
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 15px;
+        letter-spacing: 0.923px;
+        text-transform: uppercase;
+    }
+
+    .df_1 {
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: end;
+        gap: 0 33px;
+        z-index: 1;
+    }
+
+    .df_2 {
+        position: absolute;
+        right: 200px;
+        top: -25px;
+    }
+
+    .df_3 {
+        position: absolute;
+        right: 160px;
+        top: -25px;
+    }
+
+    .df_4 {
+        position: absolute;
+        right: 120px;
+        top: -25px;
+    }
+}
+.df_8 {
+    position: absolute;
+    top: -25px;
+    right: 100px;
+}
+.df_9 {
+    position: absolute;
+    top: -25px;
+    right: 55px;
+}
+.df_10 {
+    position: absolute;
+    top: -25px;
+    right: 10px;
+}
